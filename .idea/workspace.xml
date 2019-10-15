@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b58cb09-f1af-418f-9e7f-dc441e84de8e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RbbrPjErZTMw6kKyZ22NIBlRAP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VectorConcurrentTest">
+    <configuration name="CompilerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.chapter11.CompilerTest" />
+      <module name="JVMLearn" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintCompilation -XX:+UnlockDiagnosticVMOptions -XX:+PrintInlining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.chapter13.FinalTest" />
+      <module name="JVMLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.chapter13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadWaitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.chapter12.ThreadWaitTest" />
+      <module name="JVMLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.chapter12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorConcurrentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.chapter13.VectorConcurrentTest" />
+      <module name="JVMLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.chapter13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.chapter12.VolatileTest" />
+      <module name="JVMLearn" />
+      <option name="VM_PARAMETERS" value="-XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.chapter12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CompilerTest" />
+      <item itemvalue="Application.VolatileTest" />
+      <item itemvalue="Application.ThreadWaitTest" />
+      <item itemvalue="Application.FinalTest" />
+      <item itemvalue="Application.VectorConcurrentTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VectorConcurrentTest" />
+        <item itemvalue="Application.FinalTest" />
+        <item itemvalue="Application.ThreadWaitTest" />
+        <item itemvalue="Application.VolatileTest" />
+        <item itemvalue="Application.CompilerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b58cb09-f1af-418f-9e7f-dc441e84de8e" name="Default Changelist" comment="" />
+      <created>1569938940068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569938940068</updated>
+      <workItem from="1569938947751" duration="911000" />
+      <workItem from="1569993546294" duration="8425000" />
+      <workItem from="1570264365490" duration="5784000" />
+      <workItem from="1570707167866" duration="4033000" />
+      <workItem from="1570851160355" duration="49095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/learn/chapter9/DynamicProxyTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/learn/chapter8/MethodInvokingTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
